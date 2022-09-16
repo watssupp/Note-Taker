@@ -2,6 +2,7 @@
 
 ## Links
 GitHub https://watssupp.github.io/Note-Taker/
+
 ![Heroku](https://notte-taker.herokuapp.com/notes)
 
 ## Description
