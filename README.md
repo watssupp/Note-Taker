@@ -1,9 +1,9 @@
 # Note-Taker
 
 ## Links
-GitHub https://watssupp.github.io/Note-Taker/
+GitHub: https://watssupp.github.io/Note-Taker/
 
-![Heroku](https://notte-taker.herokuapp.com/notes)
+Heroku: https://notte-taker.herokuapp.com/notes
 
 ## Description
 An application to write and save note with Express.js back end and will save and retrieve note data.
