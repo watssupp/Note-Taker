@@ -13,6 +13,6 @@ An application to write and save note with Express.js back end and will save and
 - Notes can be saved
 - The application also allows user to delete notes 
 
-## Srean Shots
+## Screen Shots
 ![Alt](./img/Note-Taker%20pic%201.png)
 ![Alt](./img/Note-Taker%20pic%202.png)
