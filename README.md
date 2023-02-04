@@ -24,6 +24,6 @@ An application to write and save note with Express.js back end and will save and
 <p><a href="https://www.npmjs.com/package/inquirer">Inquirer.js</a></p>
 <p><a href="https://www.npmjs.com/package/uuid">uuid</a></p>
 <p><a href="https://getbootstrap.com/">Bootstrap</a></p>
-<p><a href="https://fonts.google.com/">Google Fonts</a></p>
+
 
 ## Have fun and enjoy! 
